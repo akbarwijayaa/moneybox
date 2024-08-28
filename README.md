@@ -1,5 +1,5 @@
 # Moneybox Smart Contract Documentation
-Contract Address : `0x3f81b634DcE40dE94F20dFcC42A1420945B0ed41`
+Sepolia Eth Contract Address : `0x3f81b634DcE40dE94F20dFcC42A1420945B0ed41`
 ## Overview
 
 The `Moneybox` smart contract allows the owner to receive and store Ether. The contract includes functionality to withdraw Ether from the contract to a specified address. Only the owner of the contract has the authority to withdraw funds.
